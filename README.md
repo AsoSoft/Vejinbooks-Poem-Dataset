@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/160289263.svg)](https://zenodo.org/badge/latestdoi/160289263)
+
 # VejinBooks Poem Dataset
 Dataset of 1154 Central Kurdish poems extracted from [vejinbooks](http://books.vejin.net) by AsoSoft group.
 This dataset was used for evaluation of an automatic Kurdish poem meter identification method based on Optimality Theory 
